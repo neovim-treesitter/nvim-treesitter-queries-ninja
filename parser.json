@@ -1,8 +1,7 @@
 {
-  "lang": "ninja",
   "url": "https://github.com/alemuller/tree-sitter-ninja",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null
+  "parser_version": "0a95cfdc0745b6ae82f60d3a339b37f19b7b9267",
+  "location": null,
+  "lang": "ninja"
 }
